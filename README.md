@@ -1,6 +1,6 @@
 # Projects
 
-| No  | Project   | Code                  | Live                                                                          |
-| --- | --------- | --------------------- | ----------------------------------------------------------------------------- |
-| 1   | NvbarMenu | [code](./NavbarMenu/) | [link](https://im-suryakant-kumar.github.io/Projects/NavbarMenu/navbar.html) |
-|     |           |                       |                                                                               |
+| No  | Project       | Code                     | Live                                                                               |
+| --- | ------------- | ------------------------ | ---------------------------------------------------------------------------------- |
+| 1.  | NavbarMenu    | [Code](./NavbarMenu/)    | [Live](https://im-suryakant-kumar.github.io/Projects/NavbarMenu/navbar.html)       |
+| 2.  | HamburgerMenu | [Code](./HamburgerMenu/) | [Live](https://im-suryakant-kumar.github.io/Projects/HamburgerMenu/hamburger.html) |
