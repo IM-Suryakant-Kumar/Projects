@@ -8,3 +8,4 @@
 | 4.  | MonthCalender | [Code](./MonthCalender/) | [Live](https://im-suryakant-kumar.github.io/Projects/MonthCalender/calender.html)  |
 | 5.  |  MouseEvent   |  [Code](./MouseEvent/)   |    [Live](https://im-suryakant-kumar.github.io/Projects/MouseEvent/mouse.html)     |
 | 6.  |  LoadingBar   |  [Code](./LoadingBar/)   |   [Live](https://im-suryakant-kumar.github.io/Projects/LoadingBar/loading.html)    |
+| 7.  | PeopleCounter | [Code](./PeopleCounter/) |  [Live](https://im-suryakant-kumar.github.io/Projects/PeopleCounter/counter.html)  |
