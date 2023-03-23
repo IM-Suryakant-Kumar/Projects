@@ -9,3 +9,4 @@
 | 5.  |  MouseEvent   |  [Code](./MouseEvent/)   |    [Live](https://im-suryakant-kumar.github.io/Projects/MouseEvent/mouse.html)     |
 | 6.  |  LoadingBar   |  [Code](./LoadingBar/)   |   [Live](https://im-suryakant-kumar.github.io/Projects/LoadingBar/loading.html)    |
 | 7.  | PeopleCounter | [Code](./PeopleCounter/) |  [Live](https://im-suryakant-kumar.github.io/Projects/PeopleCounter/counter.html)  |
+| 8.  |   BlackJack   |   [Code](./BlackJack/)   |   [Live](https://im-suryakant-kumar.github.io/Projects/BlackJack/blackjack.html)   |
